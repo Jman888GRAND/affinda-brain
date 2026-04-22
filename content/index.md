@@ -1,5 +1,7 @@
 ---
 type: index
+title: AffindaBrain
+date: 2026-04-22
 ---
 
 # Career Intelligence Brain
