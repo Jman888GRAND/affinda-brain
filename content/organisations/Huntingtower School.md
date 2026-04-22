@@ -11,6 +11,9 @@ status: active
 ## People
 - [[James Tsirigotis]]
 
+## Roles
+- Head of Boys' Volleyball Program (Sep 2024 – Present)
+
 ## Education
 - VCE (2020)
 - Dux of History – Revolutions

@@ -12,7 +12,7 @@ status: active
 - [[James Tsirigotis]]
 
 ## Roles
-- Head of Volleyball Program (Sep 2024 – Present)
+- Premier 1 Player, Volleyball Club (2024–Present)
 
 ## Education
 - Bachelor of PPE, Economic Analysis (2022–Present)

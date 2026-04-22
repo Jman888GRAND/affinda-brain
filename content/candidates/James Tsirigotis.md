@@ -26,7 +26,10 @@ status: active
 - Coordinating client activities to maximise service effectiveness
 - Resolving technical issues during workshops
 
-### Head of Volleyball Program · [[Monash University]] · Sep 2024 – Present
+### Premier 1 Player · Monash University Volleyball Club · 2024–Present
+- Competing at Premier 1 level in the Victorian Volleyball League
+
+### Head of Boys' Volleyball Program · [[Huntingtower School]] · Sep 2024 – Present
 - Led strategic planning and training for 30+ athletes
 - Applied game theory to optimise lineups and opponent response prediction
 - Increased participation by 35% through culture-building
