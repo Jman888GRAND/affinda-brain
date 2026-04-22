@@ -1,17 +1,10 @@
-# Quartz v4
+# AffindaBrain
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A career intelligence knowledge graph built on the Affinda document AI API.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Upload a resume or job description → Affinda extracts structured data → compiled into a connected markdown wiki with candidates, skills, organisations, and match analysis.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Live site: https://Jman888GRAND.github.io/affinda-brain
+Walkthrough: https://www.loom.com/share/5d87454c83d049288c185e8b614456fc
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built by Jamie Tsirigotis, April 22, 2026.
