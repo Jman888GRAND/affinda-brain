@@ -43,7 +43,7 @@ Processes resumes and job descriptions into a connected knowledge graph.
 - [[Huntingtower School]]
 - [[Lysander Consulting]]
 - [[Monash University]]
-- [[Unnamed Retailer]]
+- [[General Pants Co]]
 - [[Woolworths]]
 
 ---
