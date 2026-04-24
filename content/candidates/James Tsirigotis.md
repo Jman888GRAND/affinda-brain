@@ -35,7 +35,7 @@ status: active
 - Increased participation by 35% through culture-building
 - Improved National Schools Cup position: 15th → 7th → 3rd
 
-### Retail Assistant · Jun 2024 – Present
+### Retail Assistant · [[General Pants Co]] · Jun 2024 – Present
 - Top 5 for sales conversion (September 2024)
 
 ### Deli Assistant · [[Woolworths]] · Nov 2021 – Aug 2025

@@ -40,11 +40,16 @@ Processes resumes and job descriptions into a connected knowledge graph.
 
 ## Organisations
 - [[Affinda Group]]
+- [[General Pants Co]]
 - [[Huntingtower School]]
+- [[Liu]]
 - [[Lysander Consulting]]
 - [[Monash University]]
-- [[General Pants Co]]
 - [[Woolworths]]
+
+## Synthesis
+- [[Match Analysis — James Tsirigotis vs Affinda Internship]]
+- [[Cover Letter — Affinda Winter Internship 2026]]
 
 ---
 > *This brain was built in a single session as part of an application to Affinda.*
