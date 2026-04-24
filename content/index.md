@@ -1,15 +1,33 @@
 ---
 type: index
 title: AffindaBrain
-date: 2026-04-22
+date: 2026-04-24
 ---
 
-# Career Intelligence Brain
+# AffindaBrain
 
-Built with [[Affinda Group]] document AI + Claude.
-Processes resumes and job descriptions into a connected knowledge graph.
+> **A career intelligence knowledge graph built with [[Affinda Group]] document AI and Claude.**
+> Resumes and job descriptions are parsed via the Affinda API, extracted into structured JSON, and compiled into an interlinked graph of candidates, skills, and organisations — with match analysis on top.
 
-> **The Gap Paradox:** This CV shows almost no AI or technical skills. But building this brain using Affinda's own API on the day of application is stronger evidence than anything a CV could claim. See the full analysis: [[Match Analysis — James Tsirigotis vs Affinda Internship]]
+<iframe src="https://www.loom.com/embed/5d87454c83d049288c185e8b614456fc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%;aspect-ratio:16/9;border-radius:8px;margin:1rem 0;"></iframe>
+
+> [!tip] The Gap Paradox
+> This CV shows almost no AI or technical skills. But building this brain using Affinda's own API on the day of application is stronger evidence than anything a CV could claim.
+> See the full analysis: [[Match Analysis — James Tsirigotis vs Affinda Internship]]
+
+---
+
+## How It Works
+
+1. **Upload** — a resume or job description is sent to the Affinda API
+2. **Extract** — Affinda returns structured JSON (name, skills, experience, education)
+3. **Compile** — Claude turns the JSON into interlinked markdown pages
+4. **Connect** — shared skills and organisations become graph nodes linking all documents
+5. **Analyse** — match reports compare candidates to roles across the full skill graph
+
+The pipeline is documented in `workflow/` and automated via `workflow/ingest.py`.
+
+---
 
 ## Candidates
 - [[James Tsirigotis]]
@@ -62,5 +80,4 @@ Processes resumes and job descriptions into a connected knowledge graph.
 - [[Cover Letter — Affinda Winter Internship 2026]]
 
 ---
-> *This brain was built in a single session as part of an application to Affinda.*
-> *Every node was extracted via the Affinda API and formatted into markdown automatically.*
+> *Built in a single session as part of an application to Affinda. Every node was extracted via the Affinda API and compiled into the graph automatically.*
