@@ -9,6 +9,8 @@ date: 2026-04-22
 Built with [[Affinda Group]] document AI + Claude.
 Processes resumes and job descriptions into a connected knowledge graph.
 
+> **The Gap Paradox:** This CV shows almost no AI or technical skills. But building this brain using Affinda's own API on the day of application is stronger evidence than anything a CV could claim. See the full analysis: [[Match Analysis — James Tsirigotis vs Affinda Internship]]
+
 ## Candidate
 - [[James Tsirigotis]]
 
