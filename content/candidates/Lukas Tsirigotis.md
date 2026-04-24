@@ -27,28 +27,28 @@ Lukas has over 5 years of experience in retail and hospitality through sales and
 
 ## Work Experience
 
-### Sales Assistant
+### Sales Assistant — [[Football Galaxy]]
 **Aug 2018 – Aug 2020** (24 months) | Sporting goods retail
 
 - Product advice for general sporting and football-specific goods
 - Front of House, POS, and Back of House experience
 - Stocktake and customer order fulfilment
 
-### Front of House
+### Front of House — [[Nikos]]
 **Nov 2021 – May 2022** (6 months) | Hospitality
 
 - Customer service and order recording in a fast-paced environment
 - High standard of responsiveness, professionalism, and teamwork
 - Adaptability under pressure
 
-### Operations Assistant
+### Operations Assistant — [[Good Food Partners]]
 **Jan 2023 – Jun 2023** (5 months) | Logistics/warehouse
 
 - Goods receiving and dispatch
 - Customer order fulfilment with attention to detail
 - Time-critical delivery management
 
-### Retail Assistant
+### Retail Assistant — [[Kidstuff]]
 **Nov 2023 – present** | Toys and educational resources
 
 - Customer advice across toys and children's educational products
@@ -74,10 +74,13 @@ Extracted by Affinda from CV:
 
 - [[Huntingtower School]] — VCE 2022
 - [[Monash University]] — Bachelor of Criminology & Arts, 2023–present
+- [[Football Galaxy]] — Sales Assistant, 2018–2020
+- [[Nikos]] — Front of House, 2021–2022
+- [[Good Food Partners]] — Operations Assistant, 2023
+- [[Kidstuff]] — Retail Assistant, 2023–present
 
 ## Notes
 
-- Employers in work experience section are unnamed in the source CV
 - Both brothers (James and Lukas) attended Huntingtower School and Monash University
 - Lukas's profile represents a different skill archetype to James — practical, operational, customer-facing vs. analytical and strategic
 - Demonstrates system scalability: two distinct candidate profiles parsed from the same pipeline

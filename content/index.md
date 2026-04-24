@@ -66,11 +66,15 @@ The pipeline is documented in `workflow/` and automated via `workflow/ingest.py`
 
 ## Organisations
 - [[Affinda Group]]
+- [[Football Galaxy]]
 - [[General Pants Co]]
+- [[Good Food Partners]]
 - [[Huntingtower School]]
+- [[Kidstuff]]
 - [[Liu]]
 - [[Lysander Consulting]]
 - [[Monash University]]
+- [[Nikos]]
 - [[Woolworths]]
 
 ## Synthesis
