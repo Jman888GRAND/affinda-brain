@@ -9,8 +9,6 @@ date: 2026-04-24
 > **A career intelligence knowledge graph built with [[Affinda Group]] document AI and Claude.**
 > Resumes and job descriptions are parsed via the Affinda API, extracted into structured JSON, and compiled into an interlinked graph of candidates, skills, and organisations — with match analysis on top.
 
-<iframe src="https://www.loom.com/embed/5d87454c83d049288c185e8b614456fc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:100%;aspect-ratio:16/9;border-radius:8px;margin:1rem 0;"></iframe>
-
 > [!tip] The Gap Paradox
 > This CV shows almost no AI or technical skills. But building this brain using Affinda's own API on the day of application is stronger evidence than anything a CV could claim.
 > See the full analysis: [[Match Analysis — James Tsirigotis vs Affinda Internship]]
@@ -81,3 +79,4 @@ The pipeline is documented in `workflow/` and automated via `workflow/ingest.py`
 
 ---
 > *Built in a single session as part of an application to Affinda. Every node was extracted via the Affinda API and compiled into the graph automatically.*
+> [▶ Original walkthrough (Loom)](https://www.loom.com/share/5d87454c83d049288c185e8b614456fc)
